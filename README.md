@@ -1,2 +1,2 @@
-# light-theme
-The light color version of the default Ryuzine theme.
+# light
+Light version of the default Ryuzine theme
